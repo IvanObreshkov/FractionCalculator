@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionCalculator", "FractionCalculator\FractionCalculator.csproj", "{5414FB62-9C4B-432E-AD1A-735A75C1A821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5414FB62-9C4B-432E-AD1A-735A75C1A821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5414FB62-9C4B-432E-AD1A-735A75C1A821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5414FB62-9C4B-432E-AD1A-735A75C1A821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5414FB62-9C4B-432E-AD1A-735A75C1A821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45204E47-F77B-4BA7-9F9F-26760B5CDD25}
+	EndGlobalSection
+EndGlobal
